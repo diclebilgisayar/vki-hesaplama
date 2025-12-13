@@ -1,8 +1,14 @@
-# VKİ Hesaplama (Python)
+# 🧮 VKİ Hesaplama (Python)
 
-Bu proje Python ile yazılmış basit bir Vücut Kitle İndeksi (VKİ) hesaplama uygulamasıdır.
+Bu proje, Python kullanılarak geliştirilmiş basit bir **Vücut Kitle İndeksi (VKİ)** hesaplama uygulamasıdır.
 
-## Çalıştırma
+## 🚀 Özellikler
+- Kullanıcıdan kilo ve boy bilgisi alır
+- VKİ hesaplar
+- Sonucu sınıflandırır (Zayıf, Normal, Kilolu, Obez)
+- Hatalı girişleri yakalar (try/except)
+
+## ▶️ Çalıştırma
 ```bash
 python vki_hesapla.py
 
