@@ -1,4 +1,19 @@
-![Repo içeriği](vki_hesapla.png)
+<p align="center">
+  <a href="NOTEBOOKLM_LINKINI_BURAYA_YAZ">
+    <img src="vki_hesapla.png" alt="Proje Banner" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  🧠 Bu görsel, proje içeriğini özetlemek amacıyla <b>NotebookLM</b> kullanılarak oluşturulmuştur.
+</p>
+
+<p align="center">
+  🔗 İçerik üretim süreci: 
+  <a href="https://notebooklm.google.com/" target="_blank">
+    NotebookLM bağlantısı
+  </a>
+</p>
 
 # 🧮 VKİ Hesaplama (Python)
 
