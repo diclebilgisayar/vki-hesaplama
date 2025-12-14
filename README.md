@@ -1,3 +1,5 @@
+![Repo içeriği](vki_hesapla.png)
+
 # 🧮 VKİ Hesaplama (Python)
 
 Bu proje, Python kullanılarak geliştirilmiş basit bir **Vücut Kitle İndeksi (VKİ)** hesaplama uygulamasıdır.
