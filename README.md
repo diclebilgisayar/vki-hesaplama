@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="NOTEBOOKLM_LINKINI_BURAYA_YAZ">
     <img src="vki_hesapla.png" alt="Proje Banner" width="100%">
-  </a>
 </p>
 
 <p align="center">
