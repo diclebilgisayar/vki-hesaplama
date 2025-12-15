@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 <p align="center">
     <img src="vki_hesapla.png" alt="Proje Banner" width="100%">
 </p>
